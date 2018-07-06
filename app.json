@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "LioNews",
+    "name": "LionNews",
     "description": "This App Reads News!",
     "slug": "lionews",
     "privacy": "public",
@@ -22,10 +22,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.lionrocket.lionews"
+      "bundleIdentifier": "com.lionrocket.lionnews"
     },
     "android":{
-      "package": "com.lionrocket.lionews"
+      "package": "com.lionrocket.lionnews"
     }
   }
 }
