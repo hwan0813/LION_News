@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "LioNews",
+    "description": "This App Reads News!",
+    "slug": "lionews",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lionrocket.lionews"
+    },
+    "android":{
+      "package": "com.lionrocket.lionews"
+    }
+  }
+}
